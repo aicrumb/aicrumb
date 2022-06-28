@@ -6,4 +6,4 @@ my medium https://medium.com/@crumbly
 
 my blog https://aicrumb.tumblr.com/
 
-twitter https://twitter.com/aicrumb
+twitter https://twitter.com/aicrumb (most up to date on projects out of the three)
