@@ -1,5 +1,6 @@
 # 🌟 Crumb 🌟
 
+she/xe
 
 my medium https://medium.com/@crumbly
 
