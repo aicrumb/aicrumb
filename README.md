@@ -4,8 +4,8 @@ she/xe, my github history isn't accurate because i can't figure out how to log i
 
 my medium https://medium.com/@crumbly
 
-my blog https://aicrumb.tumblr.com/
+my blog https://aicrumb.tumblr.com/ (probably most up to date with bigger projects)
 
-twitter https://twitter.com/aicrumb (most up to date on projects out of the three)
+twitter https://twitter.com/aicrumb
 
 huggingface https://huggingface.co/crumb
