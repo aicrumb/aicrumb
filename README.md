@@ -9,3 +9,5 @@ my blog https://aicrumb.tumblr.com/ (probably most up to date with bigger projec
 twitter https://twitter.com/aicrumb
 
 huggingface https://huggingface.co/crumb
+
+email?? [crumby.naomi@gmail.com](mailto:crumby.naomi@gmail.com)
