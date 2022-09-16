@@ -1,6 +1,6 @@
 # hi
 
-she/xe 🏳️‍🌈, my github history isn't accurate because i can't figure out how to log into the right account
+she/xe 🏳️‍🌈, my github history isn't accurate i dont use it a ton
 
 [blog](https://medium.com/@crumbly) (not really updated frequently, but "big" projects here)
 
