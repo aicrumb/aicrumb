@@ -3,7 +3,7 @@
 she/xe
 
 You meed to be forward with me, I have autism. I'm also selective mute (relating to the autism).
-My preferred method of communication is Twitter DMs. I'm a first year CS student but have been working with ML for 8 years.
+My preferred method of communication is Twitter DMs. I have been working with ML for 8 years.
 
 [blog](https://medium.com/@crumbly) (not really updated frequently, but "big" projects here)
 
