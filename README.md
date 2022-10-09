@@ -2,8 +2,8 @@
 
 she/xe
 
-You meed to be forward with me, I have autism and can't understand most things well. I'm also selective mute (relating to the autism).
-My preferred method of communication is Twitter DMs
+You meed to be forward with me, I have autism. I'm also selective mute (relating to the autism).
+My preferred method of communication is Twitter DMs. I'm a first year CS student.
 
 [blog](https://medium.com/@crumbly) (not really updated frequently, but "big" projects here)
 
