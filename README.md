@@ -2,8 +2,8 @@
 
 she/xe
 
-You meed to be forward with me, I have autism. I'm also selective mute (relating to the autism).
-My preferred method of communication is Twitter DMs. I have been working with ML for 8 years.
+You need to be forward with me, I have autism. I'm also mute (relating to the autism).
+My preferred method of communication is Twitter DMs. I have been "working" (alone, as a full time hobby) with ML for 8 years.
 
 [blog](https://medium.com/@crumbly) (not really updated frequently, but "big" projects here)
 
