@@ -7,8 +7,7 @@ My preferred method of communication is Twitter DMs. I have been "working" (alon
 
 [twitter](https://twitter.com/aicrumb) (most up to date on what i'm currently working on)
 
-[huggingface](https://huggingface.co/crumb) (hosting models of which, there are probably none of note right now)
+[huggingface](https://huggingface.co/crumb) (hosting models)
 
-[email](mailto:miareams@gmail.com) (email)
 
 🐸
