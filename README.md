@@ -9,5 +9,7 @@ My preferred method of communication is Twitter DMs. I have been "working" (alon
 
 [huggingface](https://huggingface.co/crumb) (hosting models)
 
+check out doohickey:
+http://hf.co/doohickey
 
 🐸
