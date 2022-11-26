@@ -1,6 +1,6 @@
 # crumb (mia)
 
-she/xe, been into ML for 8 years
+she/xe, been into ML/programming for 8 years
 
 twitter https://twitter.com/aicrumb
 
