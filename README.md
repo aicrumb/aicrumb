@@ -13,4 +13,9 @@ been in ML for 8 years (non-professionally)
 check out doohickey:
 http://hf.co/doohickey
 
+donate:
+
+- eth 0x32df00b0a9ecee8cc9c73e4ce53ea79fad802028
+- btc 3JB6if8iTpWBbBGBdnoYZxpg3CZoLUUvYe
+
 🐸
