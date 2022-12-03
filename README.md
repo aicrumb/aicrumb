@@ -1,5 +1,3 @@
-# crumb (mia)
-
 she/xe, been into ML/programming for 8 years
 
 twitter https://twitter.com/aicrumb
