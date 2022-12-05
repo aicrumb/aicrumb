@@ -1,6 +1,6 @@
 # Crumb's AI Projects
 
-Hi there! I am an experienced independent machine learning researcher and programmer, with a passion for advancing the field through innovative experiments and cutting-edge technology. I don't use Github often, you can follow my work on Twitter at https://twitter.com/aicrumb, or check out my contributions on Hugging Face at https://hf.co/crumb. I use she/xe pronouns. Thank you for visiting my page, apologies for the mess.
+Hi there! I am an experienced independent machine learning researcher and programmer, with a passion for advancing the field through innovative experiments and cutting-edge technology. I don't use Github often, you can follow my work on Twitter at https://twitter.com/aicrumb, or check out my contributions on Hugging Face at https://hf.co/crumb. I use she/xe pronouns. Apologies for the mess.
 
 Here are a few of the projects I've been working on lately:
 ### Doohickey
