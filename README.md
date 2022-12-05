@@ -1,12 +1,8 @@
-# crumb
+# Crumb's AI Projects
 
-she/xe, been into ML/programming for 8 years
+Hi there! I am an experienced machine learning researcher and programmer, with a passion for advancing the field through innovative experiments and cutting-edge technology. You can follow my work on Twitter at https://twitter.com/aicrumb, or check out my contributions on Hugging Face at https://hf.co/crumb. I use she/xe pronouns. Thank you for visiting my GitHub page, apologies for the mess.
 
-twitter https://twitter.com/aicrumb
-
-huggingface https://hf.co/crumb
-
-Recent projects that I can remember (totally professional portfolio):
+Here are a few of the projects I've been working on lately:
 ### Doohickey
 
 - Text2img notebook built on top of Stable Diffusion
