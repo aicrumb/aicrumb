@@ -27,7 +27,7 @@ Here are a few of the projects I've been working on lately:
 
 - Investigated the effectiveness of certain adversarial attacks on AI tools
 - https://twitter.com/aicrumb/status/1580440734192148481 (explainer thread)
-- https://colab.research.google.com/github/aicrumb/doohickey/blob/main/Adversarial_Attacks_to_AI_Art_Tools.ipynb (messy code)
+- https://colab.research.google.com/github/aicrumb/notebook-hosting/blob/main/Adversarial_Attacks_to_AI_Art_Tools.ipynb (messy code)
 
 As an independent machine learning researcher and programmer, I am dedicated to advancing the field through innovative experiments and cutting-edge technology. With a background in computer science and a passion for artificial intelligence, I am constantly seeking new ways to improve and expand upon existing methods.
 
