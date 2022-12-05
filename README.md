@@ -33,8 +33,8 @@ As an independent machine learning researcher and programmer, I am dedicated to 
 
 However, I am currently limited by the tools and resources available to me. In order to continue my work and make important contributions to the field of machine learning, I am in need of support to purchase a real computer. Any donations towards this cause will be greatly appreciated and will help me to continue pushing the boundaries of what is possible with machine learning. Thank you for your support!
 
-- eth 0x32df00b0a9ecee8cc9c73e4ce53ea79fad802028
-- btc 3JB6if8iTpWBbBGBdnoYZxpg3CZoLUUvYe
-- xtz tz1ULvqesQA8SnopRzuQKFQj2jdLGBatJoC3
+- ETH 0x32df00b0a9ecee8cc9c73e4ce53ea79fad802028
+- BTC 3JB6if8iTpWBbBGBdnoYZxpg3CZoLUUvYe
+- XTZ tz1ULvqesQA8SnopRzuQKFQj2jdLGBatJoC3
 
 🐸
