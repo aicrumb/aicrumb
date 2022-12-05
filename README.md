@@ -33,8 +33,9 @@ Recent projects that I can remember (totally professional portfolio):
 - https://twitter.com/aicrumb/status/1580440734192148481 (explainer thread)
 - https://colab.research.google.com/github/aicrumb/doohickey/blob/main/Adversarial_Attacks_to_AI_Art_Tools.ipynb (messy code)
 
+As an independent machine learning researcher and programmer, I am dedicated to advancing the field through innovative experiments and cutting-edge technology. With a background in computer science and a passion for artificial intelligence, I am constantly seeking new ways to improve and expand upon existing methods.
 
-donate (I need a computer to locally run code, I use free Google Colab atm):
+However, I am currently limited by the tools and resources available to me. In order to continue my work and make important contributions to the field of machine learning, I am in need of support to purchase a real computer. Any donations towards this cause will be greatly appreciated and will help me to continue pushing the boundaries of what is possible with machine learning. Thank you for your support!
 
 - eth 0x32df00b0a9ecee8cc9c73e4ce53ea79fad802028
 - btc 3JB6if8iTpWBbBGBdnoYZxpg3CZoLUUvYe
