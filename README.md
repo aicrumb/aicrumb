@@ -4,7 +4,7 @@ twitter https://twitter.com/aicrumb
 
 huggingface https://hf.co/crumb
 
-Recent projects:
+Recent projects that I can remember (totally professional portfolio):
 - Doohickey, a text2img notebook on top of Stable Diffusion - https://hf.co/doohickey
 - One-Person RLHF (then PPO) tuning a prompt-generating BLOOM model for aesthetic Stable Diffusion results - [twt thread](https://twitter.com/aicrumb/status/1598248104981319681)
 - (small) GPT trained from scratch on algorithmically generated languages for transfer learning studies (would love to scale this project up) - https://hf.co/crumb/fake-gpt-j-17m 
