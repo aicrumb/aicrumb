@@ -1,6 +1,6 @@
 # Crumb's AI Projects
 
-Hi there! I am an experienced independent machine learning researcher and programmer, with a passion for advancing the field through innovative experiments and cutting-edge technology. I don't use Github often, you can follow my work on Twitter at https://twitter.com/aicrumb, or check out my contributions on Hugging Face at https://hf.co/crumb. I use she/xe pronouns. Apologies for the mess.
+Hi there! I am an experienced independent machine learning researcher and programmer, with a passion for advancing the field through innovative experiments and cutting-edge technology. I don't use Github often, check out my contributions on Hugging Face at https://hf.co/crumb. I use she/xe pronouns. Apologies for the mess.
 
 Here are a few of the projects I've been working on lately:
 ### Doohickey
@@ -29,6 +29,8 @@ Here are a few of the projects I've been working on lately:
 - https://twitter.com/aicrumb/status/1580440734192148481 (explainer thread)
 - https://colab.research.google.com/github/aicrumb/notebook-hosting/blob/main/Adversarial_Attacks_to_AI_Art_Tools.ipynb (messy code)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aicrumb&label=Profile%20views&color=0e75b6&style=flat" alt="aicrumb" /> </p>
+
 As an independent machine learning researcher and programmer, I am dedicated to advancing the field through innovative experiments and cutting-edge technology. With a background in computer science and a passion for artificial intelligence, I am constantly seeking new ways to improve and expand upon existing methods.
 
 However, I am currently limited by the tools and resources available to me. In order to continue my work and make important contributions to the field of machine learning, I am in need of support to purchase a real computer. Any donations towards this cause will be greatly appreciated and will help me to continue pushing the boundaries of what is possible with machine learning. Thank you for your support!
@@ -37,4 +39,12 @@ However, I am currently limited by the tools and resources available to me. In o
 - BTC 3JB6if8iTpWBbBGBdnoYZxpg3CZoLUUvYe
 - XTZ tz1ULvqesQA8SnopRzuQKFQj2jdLGBatJoC3
 
-🐸
+### Primary Language
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</p>
+
+### Socials
+<p align="left">
+<a href="https://twitter.com/aicrumb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aicrumb" height="30" width="40" /></a>
+</p>
