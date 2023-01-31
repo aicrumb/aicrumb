@@ -1,8 +1,8 @@
 Here are a few of the projects I've been working on lately:
-### Doohickey
 
-- Text2img notebook built on top of Stable Diffusion
-- https://hf.co/doohickey
+### Forward-Forward trained language models
+
+*coming soon*
 
 ### One-Person RLHF (+PPO with aesthetic models)
 
@@ -25,9 +25,10 @@ Here are a few of the projects I've been working on lately:
 - https://twitter.com/aicrumb/status/1580440734192148481 (explainer thread)
 - https://colab.research.google.com/github/aicrumb/notebook-hosting/blob/main/Adversarial_Attacks_to_AI_Art_Tools.ipynb (messy code)
 
-### Forward-Forward trained language models
+### Doohickey
 
-*coming soon*
+- Text2img notebook built on top of Stable Diffusion
+- https://hf.co/doohickey
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aicrumb&label=Profile%20views&color=0e75b6&style=flat" alt="aicrumb" /> </p>
 
