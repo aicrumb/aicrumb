@@ -25,6 +25,10 @@ Here are a few of the projects I've been working on lately:
 - https://twitter.com/aicrumb/status/1580440734192148481 (explainer thread)
 - https://colab.research.google.com/github/aicrumb/notebook-hosting/blob/main/Adversarial_Attacks_to_AI_Art_Tools.ipynb (messy code)
 
+### Forward-Forward trained language models
+
+*coming soon*
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aicrumb&label=Profile%20views&color=0e75b6&style=flat" alt="aicrumb" /> </p>
 
 - ETH 0x32df00b0a9ecee8cc9c73e4ce53ea79fad802028
