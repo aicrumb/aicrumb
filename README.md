@@ -1,8 +1,9 @@
 Here are a few of the projects I've been working on lately:
 
-### Forward-Forward trained language models
-
-*coming soon*
+### Instruct-GPT-J (Alpaca / V)
+- Ongoing
+- Finetuning on instruction following datasets such as Alpaca, FLAN, and some CoT datasets
+- https://hf.co/crumb/Instruct-GPT-J + more to come
 
 ### One-Person RLHF (+PPO with aesthetic models)
 
