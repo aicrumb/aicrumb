@@ -4,7 +4,8 @@ Here are a few of the projects I've been working on lately:
 - Ongoing, training on free hardware.
 - Finetuning on instruction following datasets such as Alpaca, FLAN, and some CoT datasets
 - https://hf.co/crumb/Instruct-GPT-J + more to come
-- Evaluation w/ Prompting exercises: https://medium.com/@crumbly/vicuña-an-instruct-gpt-j-model-trained-on-free-hardware-an-evaluation-80d97a766275
+- Evaluation w/ Prompting exercises of first model: https://medium.com/@crumbly/vicuña-an-instruct-gpt-j-model-trained-on-free-hardware-an-evaluation-80d97a766275
+- Updated model: https://huggingface.co/crumb/aurora-1.0
 
 ### One-Person RLHF (+PPO with aesthetic models)
 
