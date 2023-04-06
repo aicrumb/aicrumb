@@ -19,12 +19,6 @@ Here are a few of the projects I've been working on lately:
 - Tuned a prompt-generating BLOOM model for aesthetic Stable Diffusion results
 - https://twitter.com/aicrumb/status/1598248104981319681
 
-### Fake-GPT-J
-
-- Trained GPT on algorithmically generated languages for transfer learning studies
-- Small-scale project, but would love to scale it up
-- https://hf.co/crumb/fake-gpt-j-17m
-
 ### Quick Inversions for Stable Diffusion
 
 - https://twitter.com/aicrumb/status/1588769725286600704?s=20&t=DW43TNWTqs-lYp63H3CqGg
