@@ -1,5 +1,12 @@
 Here are a few of the projects I've been working on lately:
 
+### GerbilLab - Unusable (not really)  models, compute optimally
+- Parody of advertising models being chinchilla-optimal but then I actually started to care
+- New UL2 inspired pretraining technique
+- Small GPT models trained from scratch
+- Small Instruct-Pythia model finetunes
+- https://huggingface.co/GerbilLab
+
 ### Instruct-GPT-J (Alpaca / V)
 - Ongoing, training on free hardware.
 - Finetuning on instruction following datasets such as Alpaca, FLAN, and some CoT datasets
