@@ -1,5 +1,9 @@
 Here are a few of the projects I've been working on lately:
 
+### Coming Soon...
+- Stable Diffusion w/ Human Feedback
+- Forward-Forward pretraining for language models
+
 ### Instruct-GPT-J (Alpaca / V)
 - Ongoing, training on free hardware.
 - Finetuning on instruction following datasets such as Alpaca, FLAN, and some CoT datasets
