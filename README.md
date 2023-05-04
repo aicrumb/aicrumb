@@ -2,7 +2,7 @@ Here are a few of the projects I've been working on lately:
 
 ### Nerd-100k (ongoing)
 - New code + scientific article trained models with a custom 100k vocab size tokenizer
-- Tokenizer: https://huggingface.co/crumb/100k-tokenizer-arxiv-github
+- Tokenizer: https://hf.co/crumb/100k-tokenizer-arxiv-github
 - Models: *coming soon*
 
 ### DistilPythia (ongoing)
@@ -29,11 +29,12 @@ Here are a few of the projects I've been working on lately:
 ### One-Person RLHF (+PPO with aesthetic models)
 
 - Tuned a prompt-generating BLOOM model for aesthetic Stable Diffusion results
+- One of the first open source rlhf'd language models I guess? Sucks that that achievement is on a stable diffusion prompt generator but whatever.
 - https://twitter.com/aicrumb/status/1598248104981319681
 
 ### Doohickey
 
-- Text2img notebook built on top of Stable Diffusion
+- Early CLIP Guided Text2img notebook built on top of Stable Diffusion
 - https://hf.co/doohickey
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aicrumb&label=Profile%20views&color=0e75b6&style=flat" alt="aicrumb" /> </p>
