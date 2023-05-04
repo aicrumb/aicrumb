@@ -1,23 +1,15 @@
 Here are a few of the projects I've been working on lately:
 
-### GerbilLab - Unusable (not really)  models, compute optimally
+### DistilPythia (ongoing)
+- Knowledge distillation in Pythia models
+- Model card (which is also the project page) https://hf.co/crumb/distilpythia
+
+### GerbilLab
 - Parody of advertising models being chinchilla-optimal but then I actually started to care
 - New UL2 inspired pretraining technique
 - Small GPT models trained from scratch
 - Small Instruct-Pythia model finetunes
-- https://huggingface.co/GerbilLab
-
-### Instruct-GPT-J (Alpaca / V)
-- Ongoing, training on free hardware.
-- Finetuning on instruction following datasets such as Alpaca, FLAN, and some CoT datasets
-- https://hf.co/crumb/Instruct-GPT-J + more to come
-- Evaluation w/ Prompting exercises of first model: https://medium.com/@crumbly/vicuña-an-instruct-gpt-j-model-trained-on-free-hardware-an-evaluation-80d97a766275
-- Updated model: https://huggingface.co/crumb/aurora-1.0
-
-### One-Person RLHF (+PPO with aesthetic models)
-
-- Tuned a prompt-generating BLOOM model for aesthetic Stable Diffusion results
-- https://twitter.com/aicrumb/status/1598248104981319681
+- Project page: https://hf.co/GerbilLab
 
 ### Quick Inversions for Stable Diffusion
 
@@ -28,6 +20,11 @@ Here are a few of the projects I've been working on lately:
 - Investigated the effectiveness of certain adversarial attacks on AI tools
 - https://twitter.com/aicrumb/status/1580440734192148481 (explainer thread)
 - https://colab.research.google.com/github/aicrumb/notebook-hosting/blob/main/Adversarial_Attacks_to_AI_Art_Tools.ipynb (messy code)
+
+### One-Person RLHF (+PPO with aesthetic models)
+
+- Tuned a prompt-generating BLOOM model for aesthetic Stable Diffusion results
+- https://twitter.com/aicrumb/status/1598248104981319681
 
 ### Doohickey
 
