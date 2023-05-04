@@ -1,5 +1,10 @@
 Here are a few of the projects I've been working on lately:
 
+### Nerd-100k (ongoing)
+- New code + scientific article trained models with a custom 100k vocab size tokenizer
+- Tokenizer: https://huggingface.co/crumb/100k-tokenizer-arxiv-github
+- Models: *coming soon*
+
 ### DistilPythia (ongoing)
 - Knowledge distillation in Pythia models
 - Model card (which is also the project page) https://hf.co/crumb/distilpythia
