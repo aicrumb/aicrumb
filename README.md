@@ -1,5 +1,9 @@
 Here are a few of the projects I've been working on lately:
 
+### GPT-2023
+- base GPT2 model finetuned on 2.23B tokens from 2023 (almost enough to chinchilla-optimally pretrain the model!)
+- Model & Evaluations: https://hf.co/crumb/gpt2023
+
 ### Nerd-100k (ongoing)
 - New code + scientific article trained models with a custom 100k vocab size tokenizer
 - Tokenizer: https://hf.co/crumb/100k-tokenizer-arxiv-github
