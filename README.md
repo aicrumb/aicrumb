@@ -7,7 +7,10 @@ Here are a few of the projects I've been working on lately:
 ### Nerd-100k (ongoing)
 - New code + scientific article trained models with a custom 100k vocab size tokenizer
 - Tokenizer: https://hf.co/crumb/100k-tokenizer-arxiv-github
-- Models: *coming soon*
+- Models: *more coming soon*
+  - https://huggingface.co/crumb/nerd100k-121m
+- Hypotheses [intermediate]:
+  - You need more than just code and scientific literature for reasoning abilities.
 
 ### DistilPythia (ongoing)
 - Knowledge distillation in Pythia models
