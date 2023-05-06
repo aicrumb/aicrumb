@@ -4,13 +4,13 @@ Here are a few of the projects I've been working on lately:
 - The base GPT2 model finetuned on 2.23B tokens (from crawl, arxiv, github) from 2023 (almost enough to chinchilla-optimally pretrain the model!)
 - Model & Evaluations: https://hf.co/crumb/gpt2023
 
-### Nerd-100k (ongoing)
+<!-- ### Nerd-100k (ongoing)
 - New code + scientific article trained models with a custom 100k vocab size tokenizer
 - Tokenizer: https://hf.co/crumb/100k-tokenizer-arxiv-github
 - Models: *more coming soon*
   - https://huggingface.co/crumb/nerd100k-70m
 - Hypotheses [intermediate]:
-  - You need more than just code and scientific literature for reasoning abilities.
+  - You need more than just code and scientific literature for reasoning abilities. -->
 
 ### DistilPythia (ongoing)
 - Knowledge distillation in Pythia models
