@@ -1,5 +1,7 @@
 Here are a few of the projects I've been working on lately:
 
+(MUCH bigger things incoming, watch out)
+
 ### GPT-2023
 - The base GPT2 model finetuned on 2.23B tokens (from crawl, arxiv, github) from 2023 (almost enough to chinchilla-optimally pretrain the model!)
 - Model & Evaluations: https://hf.co/crumb/gpt2023
