@@ -52,12 +52,8 @@ Here are a few of the projects I've been working on lately:
 - BTC 3JB6if8iTpWBbBGBdnoYZxpg3CZoLUUvYe
 - XTZ tz1ULvqesQA8SnopRzuQKFQj2jdLGBatJoC3
 
-### Primary Language
+### ---
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</p>
-
-### Socials
-<p align="left">
 <a href="https://twitter.com/aicrumb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aicrumb" height="30" width="40" /></a>
 </p>
