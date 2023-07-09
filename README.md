@@ -1,3 +1,5 @@
+yes i do contract work
+
 Here are a few of the projects I've been working on lately:
 
 (bigger things soon)
