@@ -1,8 +1,8 @@
+🤗: http://hf.co/crumb <br>
+🐦: http://twitter.com/aicrumb <br>
 yes i do contract work
 
-Here are a few of the projects I've been working on lately:
-
-(bigger things soon)
+Here are a few of the projects I've been working on lately (bigger things soon):
 
 ### GPT-2023
 - The base GPT2 model finetuned on 2.23B tokens (from crawl, arxiv, github) from 2023 (almost enough to chinchilla-optimally pretrain the model!)
