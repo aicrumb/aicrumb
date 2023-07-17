@@ -4,6 +4,12 @@ yes i do contract work
 
 Here are a few of the projects I've been working on lately (bigger things soon):
 
+### GPT-2-Linear
+- GPT-2 models converted to use linear layers, making them more compatible with existinf quantization and adapter code.
+- model card: https://hf.co/crumbly/gpt2-linear-xl
+- qlora finetuning notebook: https://hf.co/crumbly/gpt2-linear-xl/blob/main/GPT2_Linear_4bit_training.ipynb
+
+
 ### GPT-2023
 - The base GPT2 model finetuned on 2.23B tokens (from crawl, arxiv, github) from 2023 (almost enough to chinchilla-optimally pretrain the model!)
 - Model & Evaluations: https://hf.co/crumb/gpt2023
@@ -16,11 +22,11 @@ Here are a few of the projects I've been working on lately (bigger things soon):
 - Hypotheses [intermediate]:
   - You need more than just code and scientific literature for reasoning abilities. -->
 
-### DistilPythia (ongoing)
+### DistilPythia (wip)
 - Knowledge distillation in Pythia models
 - Model card (which is also the project page) https://hf.co/crumb/distilpythia
 
-### GerbilLab
+### GerbilLab (wip)
 - Parody of advertising models being chinchilla-optimal but then I actually started to care
 - New UL2 inspired pretraining technique
 - Small GPT models trained from scratch
