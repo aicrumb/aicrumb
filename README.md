@@ -6,10 +6,7 @@ Here are a few of the projects I've been working on lately (bigger things soon):
 
 ### MoLora
 - Mixture-of-experts LoRA, the first of it's kind on the Llama-2 models! (and looks like one of the first few finetunes!)
-- loras are trained on clusters of a kmeans clustered dataset, then combined at inference based on distance from prompt to each centroid
-- proof of concept: https://twitter.com/aicrumb/status/1681846805959528448
-- proof of concept: https://colab.research.google.com/#fileId=https%3A//huggingface.co/datasets/crumb/Wizard-EvolInstruct70k-k4/blob/main/MoLora_7b_(PROOF_OF_CONCEPT).ipynb
-- comparison of proof of concept molora vs lora, thread https://twitter.com/aicrumb/status/1681856435087441921
+- medium blog post with proof of concept and inference code: https://crumbly.medium.com/llama-2-molora-f5f909434711
 
 
 ### GPT-2-Linear
