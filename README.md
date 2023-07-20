@@ -9,6 +9,8 @@ Here are a few of the projects I've been working on lately (bigger things soon):
 - loras are trained on clusters of a kmeans clustered dataset, then combined at inference based on distance from prompt to each centroid
 - proof of concept: https://twitter.com/aicrumb/status/1681846805959528448
 - proof of concept: https://colab.research.google.com/#fileId=https%3A//huggingface.co/datasets/crumb/Wizard-EvolInstruct70k-k4/blob/main/MoLora_7b_(PROOF_OF_CONCEPT).ipynb
+- comparison of proof of concept molora vs lora, thread https://twitter.com/aicrumb/status/1681856435087441921
+
 
 ### GPT-2-Linear
 - GPT-2 models converted to use linear layers, making them more compatible with existinf quantization and adapter code.
