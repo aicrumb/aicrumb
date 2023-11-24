@@ -4,6 +4,12 @@ yes i do contract work
 
 Here are a few of the projects I've been working on lately (bigger things soon):
 
+### Reweighting
+- Creating very small continued-pretraining datasets specifically to increase the size of the domain that a model performs well in
+- https://crumbly.medium.com/reweighting-refining-ai-with-precision-and-efficiency-9a01c2ca4c26
+- 
+![image](https://github.com/aicrumb/aicrumb/assets/58605641/c3cd1a2f-6840-4f26-9a65-a99e3608fad1)
+
 ### MoLora
 - Mixture-of-experts LoRA, the first of it's kind on the Llama-2 models! (and looks like one of the first few finetunes!)
 - medium blog post with proof of concept and inference code: https://crumbly.medium.com/llama-2-molora-f5f909434711
