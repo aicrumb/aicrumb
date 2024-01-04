@@ -1,6 +1,6 @@
 🤗: http://hf.co/crumb <br>
 🐦: http://twitter.com/aicrumb <br>
-yes i do contract work
+yes I do (and am open to) contract work or full-time work
 
 Here are a few of the projects I've been working on lately (bigger things soon):
 
