@@ -34,25 +34,9 @@ Jan 2024 - https://aicrumb.github.io/reports/012024/
 - Mixture-of-experts LoRA, the first of it's kind on the Llama-2 models! (and looks like one of the first few finetunes!)
 - medium blog post with proof of concept and inference code: https://crumbly.medium.com/llama-2-molora-f5f909434711
 
-### GPT-2-Linear
-- GPT-2 models converted to use linear layers, making them more compatible with existinf quantization and adapter code.
-- model card: https://hf.co/crumbly/gpt2-linear-xl
-- qlora finetuning notebook: https://hf.co/crumbly/gpt2-linear-xl/blob/main/GPT2_Linear_4bit_training.ipynb
-
-### GPT-2023
-- The base GPT2 model finetuned on 2.23B tokens (from crawl, arxiv, github) from 2023 (almost enough to chinchilla-optimally pretrain the model!)
-- Model & Evaluations: https://hf.co/crumb/gpt2023
-
 ### DistilPythia (wip)
 - Knowledge distillation in Pythia models
 - Model card (which is also the project page) https://hf.co/crumb/distilpythia
-
-### GerbilLab (wip)
-- Parody of advertising models being chinchilla-optimal but then I actually started to care
-- New UL2 inspired pretraining technique
-- Small GPT models trained from scratch
-- Small Instruct-Pythia model finetunes
-- Project page: https://hf.co/GerbilLab
 
 ### Quick Inversions for Stable Diffusion
 
