@@ -4,6 +4,8 @@ Support development (please):<br>
 `sol on sol EpxKy2DqsoALJC35BJ3ZPEoqPYqwQmVGC1BpqeT6vJHt`<br>
 `xtz tz1ULvqesQA8SnopRzuQKFQj2jdLGBatJoC3`
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aicrumb&label=Profile%20views&color=0e75b6&style=flat" alt="aicrumb" /> </p>
+
 ## Monthly update
 Jan 2024 - https://aicrumb.github.io/reports/012024/
 
@@ -59,5 +61,3 @@ Jan 2024 - https://aicrumb.github.io/reports/012024/
 
 - Early CLIP Guided Text2img notebook built on top of Stable Diffusion
 - https://hf.co/doohickey
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aicrumb&label=Profile%20views&color=0e75b6&style=flat" alt="aicrumb" /> </p>
