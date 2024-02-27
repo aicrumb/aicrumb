@@ -4,7 +4,10 @@ Support development (please):<br>
 `sol on sol EpxKy2DqsoALJC35BJ3ZPEoqPYqwQmVGC1BpqeT6vJHt`<br>
 `xtz tz1ULvqesQA8SnopRzuQKFQj2jdLGBatJoC3`
 
+## Monthly update
+Jan 2024 - https://aicrumb.github.io/reports/012024/
 
+## Various projects
 ### GLORT2
 - GLORT2 (Glort2 Low Rank Transformer-Transformer), a transformer model where every linear layer is replaced with a smaller transformer.
 - https://huggingface.co/crumb/GLORT2
