@@ -1,8 +1,24 @@
-🤗: http://hf.co/crumb <br>
-🐦: http://twitter.com/aicrumb <br>
-yes I do (and am open to) contract work or full-time work
+Support development (please):<br>
+`btc on bitc network: 3JB6if8iTpWBbBGBdnoYZxpg3CZoLUUvYe`<br>
+`eth on eth unified 0x3fad449e20b44308d80ec663cbc2408f8bb68804`<br>
+`sol on sol EpxKy2DqsoALJC35BJ3ZPEoqPYqwQmVGC1BpqeT6vJHt`<br>
 
-Here are a few of the projects I've been working on lately (bigger things soon):
+
+### GLORT2
+- GLORT2 (Glort2 Low Rank Transformer-Transformer), a transformer model where every linear layer is replaced with a smaller transformer.
+- https://huggingface.co/crumb/GLORT2
+
+| model | 512-token strided perplexity on a pile test set | tokens |
+| --- | --- | --- | 
+| cerebras 111m | 21.550655364990234 | 2.2b |
+| cerebras 256m | 15.203496932983398 | 5.1b |
+| cerebras 590m | 12.098200798034668 | 11.something b |
+| deduped pythia 70m (95.6M) | 22.393400192260742 | 300b |
+| deduped pythia 160m (213M) | 13.933751106262207 | 300b |
+| deduped pythia 410m (506M) | 9.61842155456543 | 300b |
+| llama w same settings as cerebras 111m (119m) | 13.882301330566406 | 2.2b |
+| llama plus w same settings as cerebras 111m and llama 70b embeddings (369m) | 13.565109252929688 | 2.2b |
+| **GLORT2 (205m)** | 13.051741600036621 | 2.2b |
 
 ### Reweighting
 - Creating very small continued-pretraining datasets specifically to increase the size of the domain that a model performs well in
