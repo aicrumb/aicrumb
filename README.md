@@ -6,6 +6,8 @@ Support development (please):<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aicrumb&label=Profile%20views&color=0e75b6&style=flat" alt="aicrumb" /> </p>
 
+HuggingFace - https://huggingface.co/crumb
+
 ## Monthly update
 Jan 2024 - https://aicrumb.github.io/reports/012024/
 
