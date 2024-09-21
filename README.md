@@ -12,6 +12,12 @@ HuggingFace - https://huggingface.co/crumb
 Jan 2024 - https://aicrumb.github.io/reports/012024/
 
 ## Various projects
+
+### AskMistral-Pile
+- equal to slightly higher quality subset of the pile than MiniPile, per token, needs to be reproduced at larger scale
+- compare [https://huggingface.co/crumb/askmistral-2-15-111m](https://huggingface.co/crumb/askmistral-2-15-tophalf-111m) - [https://huggingface.co/crumb/minipile-111m](https://huggingface.co/crumb/minipile-111m)
+- https://huggingface.co/datasets/crumb/askmistral-pile-2-15
+
 ### GLORT2
 - GLORT2 (Glort2 Low Rank Transformer-Transformer), a transformer model where every linear layer is replaced with a smaller transformer.
 - https://huggingface.co/crumb/GLORT2
