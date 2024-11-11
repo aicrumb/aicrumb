@@ -1,11 +1,3 @@
-Support development (please):<br>
-`btc on bitc network: 3JB6if8iTpWBbBGBdnoYZxpg3CZoLUUvYe`<br>
-`eth on eth unified 0x3fad449e20b44308d80ec663cbc2408f8bb68804`<br>
-`sol on sol EpxKy2DqsoALJC35BJ3ZPEoqPYqwQmVGC1BpqeT6vJHt`<br>
-`xtz tz1ULvqesQA8SnopRzuQKFQj2jdLGBatJoC3`
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aicrumb&label=Profile%20views&color=0e75b6&style=flat" alt="aicrumb" /> </p>
-
 HuggingFace - https://huggingface.co/crumb
 
 ## Monthly update
